@@ -10,9 +10,9 @@ changing market needs.</h3>
 
 
 
-- 🌱 I’m currently learning ** Vue.js 3 **
+- 🌱 I’m currently learning ** Python **
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js, Vue.js**
 
 - ⚡ Fun fact **I think I am a fan of cats🐈‍⬛ and VideoGames🎮**
 
